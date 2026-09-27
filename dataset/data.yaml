@@ -1,0 +1,13 @@
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 1
+names: ['LATA']
+
+roboflow:
+  workspace: geovani-coronado
+  project: black-can-detector
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/geovani-coronado/black-can-detector/dataset/2

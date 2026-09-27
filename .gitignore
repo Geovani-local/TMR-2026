@@ -1,8 +1,9 @@
 venv_tmr/
-dataset/
 can pictures/
-*.pt
 *.zip
 runs/
+latas_tmr_v2/
+latas_tmr_v3/
+*.pt
 __pycache__/
 .vscode/
