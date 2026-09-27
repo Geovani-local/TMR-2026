@@ -1,0 +1,8 @@
+venv_tmr/
+dataset/
+can pictures/
+*.pt
+*.zip
+runs/
+__pycache__/
+.vscode/
