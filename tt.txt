@@ -1,0 +1,11 @@
+# crear el entorno virtual
+python3 -m venv venv_tmr
+
+# activar el entorno
+source venv_tmr/bin/activate
+
+#  instalar las librerias
+pip install ultralytics opencv-python
+
+# correr bien chidote
+python detectar_video.py
